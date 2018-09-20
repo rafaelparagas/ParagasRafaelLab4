@@ -1,0 +1,86 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="tv">
+        <item name="android:text">Styles and Material Design"</item>
+        <item name ="android:layout_width">0dp</item>
+        <item name ="android:layout_height">0dp</item>
+        <item name ="android:background">#ff007c</item>
+        <item name ="android:textSize">20dp</item>
+        <item name ="android:fontFamily">casual</item>
+        <item name ="android:textStyle">bold</item>
+    </style>
+
+    <style name="imv">
+        <item name ="android:layout_width">wrap_content</item>
+        <item name ="android:layout_height">wrap_content</item>
+        <item name ="android:layout_marginBottom">2dp</item>
+        <item name ="android:layout_marginStart">1dp</item>
+        <item name ="android:layout_marginTop">36dp</item>
+        <item name ="android:background">#ff007c</item>
+
+    </style>
+
+    <style name="tv2">
+        <item name ="android:text">Filipino Travel Center"</item>
+        <item name ="android:background">#ff007c</item>
+        <item name ="android:textSize">25dp</item>
+        <item name ="android:textStyle">bold</item>
+        <item name ="android:textAlignment">center</item>
+        <item name ="android:layout_width">386dp</item>
+        <item name ="android:layout_height">36dp</item>
+        <item name ="android:fontFamily">casual</item>
+
+    </style>
+
+    <style name="tv3">
+        <item name ="android:text">Location: Manila, Luzon 1004 Philippines</item>
+        <item name ="android:background">#ff007c</item>
+        <item name ="android:textSize">20dp</item>
+        <item name ="android:layout_width">0dp</item>
+        <item name ="android:layout_height">35dp</item>
+        <item name ="android:layout_marginBottom">8dp</item>
+        <item name ="android:layout_marginTop">344dp</item>
+        <item name ="android:fontFamily">casual</item>
+
+    </style>
+
+    <style name="tv4">
+        <item name ="android:text">Distance From UST: 2.4km"</item>
+        <item name ="android:background">#ff007c</item>
+        <item name ="android:textSize">20dp</item>
+        <item name ="android:layout_width">429dp</item>
+        <item name ="android:layout_height">37dp</item>
+        <item name ="android:layout_marginBottom">63dp</item>
+        <item name ="android:layout_marginTop">380dp</item>
+        <item name ="android:fontFamily">casual</item>
+    </style>
+
+    <style name="butt1">
+        <item name ="android:text">Back</item>
+        <item name ="android:background">#DC1D1A</item>
+        <item name ="android:fontFamily">casual</item>
+        <item name ="android:layout_width">wrap_content</item>
+        <item name ="android:layout_height">45dp</item>
+        <item name ="android:layout_marginBottom">37dp</item>
+        <item name ="android:layout_marginStart">16dp</item>
+
+    </style>
+
+    <style name="butt2">
+        <item name ="android:text">Next</item>
+        <item name ="android:background">#07ED12</item>
+        <item name ="android:fontFamily">casual</item>
+        <item name ="android:layout_width">wrap_content</item>
+        <item name ="android:layout_height">wrap_content</item>
+        <item name ="android:layout_marginBottom">39dp</item>
+        <item name ="android:layout_marginEnd">18dp</item>
+    </style>
+</resources>
